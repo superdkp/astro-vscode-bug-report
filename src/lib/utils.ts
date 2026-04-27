@@ -1,0 +1,1 @@
+export const SOME_CONST = "/some/where/over/the/rainbow";
